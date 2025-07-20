@@ -3,7 +3,7 @@
 }
 
 img{
-    width:100px;
+    width:100%;
 }
 
 .hero-image{
@@ -30,4 +30,8 @@ img{
     width: 80%;
     margin: auto;
     margin-top: 40px;
+}
+
+.info{
+    font-size: 1.25em;
 }
