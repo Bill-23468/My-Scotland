@@ -36,3 +36,13 @@ img{
     font-size: 1em;
     margin-top: -15px;
 }
+
+.three-column{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 80%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 50px;
+}
